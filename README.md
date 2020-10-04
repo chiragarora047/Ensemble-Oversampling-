@@ -6,3 +6,7 @@ How to use the code
 1.	Use jupyter notebook to open code.ipynb
 2.	Add your raw data in raw data folder
 3.	Give the path of directory mentioned in code.ipynb
+
+Please access the code and raw data files using below mentioned link-
+https://drive.google.com/drive/u/0/my-drive
+All the Code and Raw Data Files are stored inside the folder named as "Methods"
