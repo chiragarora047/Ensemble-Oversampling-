@@ -8,5 +8,5 @@ How to use the code
 3.	Give the path of directory mentioned in code.ipynb
 
 Please access the code and raw data files using below mentioned link-
-https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/drive/folders/18hIIgjSpkMILVFWM04St4J6DdNaF5Z2M?usp=sharing
 All the Code and Raw Data Files are stored inside the folder named as "Methods"
